@@ -9,4 +9,4 @@ Software Fault Prediction Using Deep Learning
 > **2. Hyper Parameter**
 
 
-> **3. fold 교차검증**
+> **3. 10-fold 교차검증**
