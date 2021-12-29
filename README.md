@@ -5,5 +5,8 @@ Software Fault Prediction Using Deep Learning
 - KC1, PC1, PC2, JM1, CM1 
 
 > **1. Feature selection**
+
 > **2. Hyper Parameter**
-> **10-fold 교차검증**
+
+
+> **3. fold 교차검증**
